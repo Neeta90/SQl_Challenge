@@ -1,10 +1,10 @@
 # SQl_homework
-In thsi Homework I have done
+In this assignment, I designed the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data.
 
-1. Data Modeling : Created ERD.
+1. Data Modeling : Inspected CVS and Created ERD of the tables.
 
-2. Data Engineering : Created tables and import CSV file to insert the data into corresponding tables.
+2. Data Engineering : Created tables and imported CSV file into corresponding tables.
 
 3. Data Analysis : Used SQL queries to retrieve corresponding data for all data analysis points.
 
-4. Bonus : Created  Bar chart using jupyter notebook for Bonus Analusis
+4. Bonus :  Created  Bar chart using jupyter notebook for Bonus Analusis.Added config file to get userid and pwd. Please use your userid and password.
