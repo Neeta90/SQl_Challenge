@@ -24,11 +24,12 @@ SELECT dm.dept_no,dm.emp_no,de.from_date,de.to_date,d.dept_name, e.first_name,e.
  FROM employees AS e JOIN dep_emp AS de
  ON e.emp_no = de.emp_no
  JOIN departments AS d 
- ON de.dept_no = d.dept_no
+ ON de.dept_no = d.dept_no;
  
---DA5:List all employees whose first name is "Hercules" and last names begin with "B."--
- SELECT first_name,last_name 
- FROM employees WHERE first_name = 'Hercules' AND last_name LIKE 'B%';
+--DA5:List all employees whose first name is "Hercules" and last names begin with "B".
+
+ SELECT first_name,last_name FROM employees
+   WHERE first_name = 'Hercules' AND last_name LIKE 'B%';
  
  --DA6 :List all employees in the Sales department, including their employee number, last name, first name, and department name.
 SELECT e.emp_no,e.last_name,e.first_name,d.dept_name  
