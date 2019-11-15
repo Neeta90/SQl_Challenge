@@ -7,4 +7,4 @@ In this assignment, I designed the tables to hold data in the CSVs, import the C
 
 3. Data Analysis : Used SQL queries to retrieve corresponding data for all data analysis points.
 
-4. Bonus :  Created  Bar chart using jupyter notebook for Bonus Analysis.Added config file to get userid and pwd. Please use your userid and password.
+4. Bonus :  Created  Bar chart using jupyter notebook for Bonus Analysis. Added config file to get userid and password. Please use your userid and password.
