@@ -10,3 +10,5 @@ In this assignment, I designed the tables to hold data in the CSVs, import the C
 3. Data Analysis : Used SQL queries to retrieve corresponding data for all data analysis points.
 
 4. Bonus :  Created  Bar chart using jupyter notebook for Bonus Analysis. Added config file to get userid and password. Please use your userid and password.
+
+![avgsalaryVStitle](https://user-images.githubusercontent.com/50187921/69108356-fcdd5a00-0a39-11ea-8373-95e184092255.png)
